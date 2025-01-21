@@ -444,7 +444,7 @@ Remove a custom property from the leaf text nodes within non-void nodes or void 
 
 ### getFragment method
 
-#### `getFragment() => Descendant`
+#### `getFragment() => Descendant[]`
 
 Returns the fragment at the current selection. Used when cutting or copying, as an example, to get the fragment at the current selection.
 
